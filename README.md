@@ -6,3 +6,7 @@ To simulate a laser beam, two 'infinitely long', oppositely charged barriers
 will be placed in parallel, between which the hydrogen atom will sit.
 This simulates the classical view of a laser beam - an oscillating electric
 field.
+
+The 'position' of the electron can be thought to roughly
+represent the center of the electron cloud which is
+distorted by the applied electric field.
